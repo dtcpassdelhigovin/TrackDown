@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="https://track-down-aarnx3fuf-dtcpassdelhigovin1s-projects.vercel.app/";
 //TOGGLE for Shorters
 var use1pt=false;
 
