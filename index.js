@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="https://track-down-three.vercel.app/";
+var hostURL="https://track-down-three.vercel.app";
 //TOGGLE for Shorters
 var use1pt=false;
 
