@@ -2,14 +2,17 @@
   "version": 2,
   "builds": [
     {
-      "src": "./index.js",
+      "src": "index.js",
       "use": "@vercel/node"
     }
   ],
-    "routes": [
+  "routes": [
     {
-      "src": "./(.*)",
-      "dest": "/"
+      "src": "/(.*)",
+      "dest": "index.js"
     }
-  ]
+  ],
+  "env": {
+    "BOT_TOKEN": "6212164299:AAG6ILbIVBaUtnXaM0Hqt-mrJzBo0bfI0KA"
+  }
 }
