@@ -13,6 +13,6 @@
     }
   ],
   "env": {
-    "BOT_TOKEN": "6212164299:AAG6ILbIVBaUtnXaM0Hqt-mrJzBo0bfI0KA"
+    "bot": "6212164299:AAG6ILbIVBaUtnXaM0Hqt-mrJzBo0bfI0KA"
   }
 }
